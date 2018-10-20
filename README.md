@@ -1,7 +1,7 @@
-# tips
+对应博文链接：
+https://blog.csdn.net/qq_26437925/article/details/83212571
 
 主要学习参考开源项目：
-
 https://github.com/sharding-sphere/sharding-sphere
 
 实践环境
@@ -16,6 +16,8 @@ mysql  Ver 14.14 Distrib 5.6.40, for macos10.13 (x86_64) using  EditLine wrapper
 ```
 
 ---
+
+`code/shardingjdbc`项目
 
 存储过程
 
@@ -77,7 +79,7 @@ BEGIN
 END
 ```
 
-分库分表策略
+分库分表策略
 
 分表按照`order_id`奇偶
 
